@@ -43,5 +43,5 @@ It trains the brain to focus for short, intense periods and combats procrastinat
 - [Pomofocus — Free Online Pomodoro Timer](https://pomofocus.io/)
 - [Forest App — Focus Timer](https://www.forestapp.cc/)
 
-*— Written by Kuriarobert41-debug*
+*— Written and reviewed by Kuriarobert41-debug*
 
