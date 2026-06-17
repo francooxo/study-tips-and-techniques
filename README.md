@@ -48,7 +48,23 @@ It trains the brain to focus for short, intense periods and combats procrastinat
 *— Written and reviewed by Kuriarobert41-debug*
 
 ## Spaced Repetition
-<!-- GithaeH will write this section -->
+Spaced Repetition is a learning technique that improves long-term memory by reviewing information at increasing intervals over time. Instead of repeatedly studying material in one session, learners revisit concepts just before they are likely to forget them. This method strengthens memory retention and makes studying more efficient.
+
+**How it works:**
+1. Learn a new concept or piece of information.
+2. Review the material shortly after the first study session.
+3. Repeat reviews at increasing intervals (for example: 1 day, 3 days, 1 week, 2 weeks).
+4. Focus more frequently on information that is difficult to remember and less often on information you already know well.
+
+**Why it's effective:**
+Spaced Repetition takes advantage of the brain's natural forgetting curve. By reviewing information just before it is forgotten, memories become stronger and easier to recall. This technique reduces study time while improving long-term retention, making it especially useful for exams, language learning, and professional certifications.
+
+**Useful Links:**
+- [Anki – Spaced Repetition Flashcards](https://apps.ankiweb.net/)
+- [SuperMemo – The Original Spaced Repetition System](https://www.supermemo.com/)
+- [Spaced Repetition Explained](https://fs.blog/spaced-repetition/)
+
+*— Written and reviewed by GithaeH*
 
 ---
 
