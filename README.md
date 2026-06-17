@@ -1,6 +1,6 @@
 # Study Tips and Techniques
 
-A collaborative guide by [Your Name], [Teammate 2 Name], and [Teammate 3 Name].
+A collaborative guide by Francooxo, Kuriarobert41-debug and GithaeH
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -50,3 +50,20 @@ It trains the brain to focus for short, intense periods and combats procrastinat
 ## Spaced Repetition
 <!-- GithaeH will write this section -->
 
+---
+
+## 📚 Resources
+
+Here is a curated list of tools, books, and applications to help build effective study habits, master complex technical topics, and optimize learning workflows:
+
+### 🌐 Websites & Platforms
+* **[Coursera - Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn):** A world-famous course by Dr. Barbara Oakley covering mental tools to master tough subjects.
+* **[AnkiWeb](https://apps.ankiweb.net/):** The web-based companion to sync and review your flashcard decks anywhere.
+
+### 📱 Applications & Tools
+* **[Anki Desktop](https://apps.ankiweb.net/):** Powerful, open-source flashcard software utilizing active recall testing and optimized spacing algorithms.
+* **[Obsidian](https://obsidian.md/):** A private, local-first Markdown knowledge base perfect for taking interconnected technical study notes.
+
+### 📖 Recommended Reading
+* ***Make It Stick: The Science of Successful Learning*** – Peter C. Brown, Henry L. Roediger III, and Mark A. McDaniel. *(Explains why active retrieval and spaced practice are vital).*
+* 
