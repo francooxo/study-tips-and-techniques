@@ -26,6 +26,7 @@ Neuroscientific studies show that the act of retrieving information constructs s
 - [Anki — Spaced Repetition Flashcards](https://apps.ankiweb.net/)
 - [The Feynman Technique Explained](https://fs.blog/feynman-technique/)
 - [Retrieval Practice Research Overview](https://www.retrievalpractice.org/)
+ 
 *— Written by Francooxo*
 
 ## The Pomodoro Technique
