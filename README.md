@@ -1,12 +1,13 @@
 # Study Tips and Techniques
 
-A collaborative guide by [Francooxo, Kuriarobert41-debug and GithaeH]
+A collaborative guide by Francooxo, Kuriarobert41-debug and GithaeH.
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Active Recall](#active-recall)
 - [The Pomodoro Technique](#the-pomodoro-technique)
 - [Spaced Repetition](#spaced-repetition)
+- [Resources](#resources)
 
 ## Introduction
 This guide covers study techniques that can help students learn more effectively and retain information longer. Each section below is written by a different team member, based on a technique they researched and tried themselves.
@@ -18,6 +19,7 @@ Active recall involves testing your memory immediately after learning a concept,
 - **The Closed-Book Method:** After reading a section of your study material, close the book and write down everything you can remember on a blank piece of paper or type it into a text document.
 - **Flashcards:** Use physical flashcards or digital tools like Anki to quiz yourself on definitions, formulas, or key concepts.
 - **Feynman Technique application:** Explain the concept aloud to an imaginary student or a peer without looking at your notes.
+
 **Why it's effective:**
 Neuroscientific studies show that the act of retrieving information constructs stronger neural pathways. Passive reading creates an "illusion of competence" (feeling like you know the material because it is right in front of you), whereas active recall exposes what you actually understand.
  
@@ -68,7 +70,7 @@ Spaced Repetition takes advantage of the brain's natural forgetting curve. By re
 
 ---
 
-## 📚 Resources
+## Resources
 
 Here is a curated list of tools, books, and applications to help build effective study habits, master complex technical topics, and optimize learning workflows:
 
@@ -82,4 +84,4 @@ Here is a curated list of tools, books, and applications to help build effective
 
 ### 📖 Recommended Reading
 * ***Make It Stick: The Science of Successful Learning*** – Peter C. Brown, Henry L. Roediger III, and Mark A. McDaniel. *(Explains why active retrieval and spaced practice are vital).*
-* 
+* ***Atomic Habits*** – James Clear. *(An excellent framework for building daily, consistent study routines).*
