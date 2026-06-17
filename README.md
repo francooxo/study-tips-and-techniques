@@ -49,6 +49,9 @@ It trains the brain to focus for short, intense periods and combats procrastinat
 
 ## Spaced Repetition
 Spaced Repetition is a learning technique that improves long-term memory by reviewing information at increasing intervals over time. Instead of repeatedly studying material in one session, learners revisit concepts just before they are likely to forget them. This method strengthens memory retention and makes studying more efficient.
+<p align="center">
+  <img src="Images/Spaced-repetition-InfoG.jpeg" alt="Spaced Repetition Infographic" width="400">
+</p>
 
 **How it works:**
 1. Learn a new concept or piece of information.
